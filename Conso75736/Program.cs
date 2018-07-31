@@ -11,6 +11,8 @@ namespace Conso75736
         static void Main(string[] args)
         {
             Console.WriteLine(5555555555);
+            Console.WriteLine(5555555555);
+            Console.WriteLine(5555555555);
         }
     }
 }

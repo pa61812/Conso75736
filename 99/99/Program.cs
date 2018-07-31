@@ -31,7 +31,9 @@ namespace _99
                 }
                 Console.WriteLine("");
                 a++;
-            }
+            }Console.Write("結束");
+            Console.WriteLine();
+
         }
     }
 }
